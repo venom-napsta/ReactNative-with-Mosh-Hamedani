@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "hotDogExpo",
+    "slug": "hotDogExpo",
+    "version": "1.0.2",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "hotDogExpo"
+}

@@ -1,0 +1,7 @@
+{
+  "toInstall": "@react-native-community/hooks",
+  "todo":{
+    "useDimensions":"",
+    "useDeviceOrientation":""
+  }
+}
